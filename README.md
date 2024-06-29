@@ -5,7 +5,7 @@
 
 #### This project involves using an LSTM network to predict the future value of stocks for a bluechip Indian Company- TATA CONSULTANCY SERVICES
 
-#### Data of the opening price,closing price , highest price and lowest price is collected from 25th August 2004 to 29th June 2024. The dataset is taken from Yahoo Finance- [https://finance.yahoo.com/quote/TATAPOWER.BO/history?period1=946871100&period2=1714465597](https://finance.yahoo.com/quote/TCS.BO/history/?period1=1093405500&period2=1719682008)
+#### Data of the opening price,closing price , highest price and lowest price is collected from 25th August 2004 to 29th June 2024. The dataset is taken from Yahoo Finance- https://finance.yahoo.com/quote/TCS.BO/history/?period1=1093405500&period2=1719682008
 
 #### Stock market predictors have a high scope as it can guide investors about the price of a stock in the future which can help them make decisions with respect to buying or selling the stock.
 
